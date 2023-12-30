@@ -20,7 +20,8 @@ import (
 // ProtocolVersion is the protocol version number of minecraft net protocol
 const (
 	ProtocolVersion = 765
-	DefaultPort     = mcnet.DefaultPort
+
+	DefaultPort = mcnet.DefaultPort
 )
 
 type JoinOptions struct {
