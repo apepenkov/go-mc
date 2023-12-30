@@ -13,9 +13,9 @@ import (
 
 	"github.com/google/uuid"
 
-	"github.com/Tnze/go-mc/net"
-	pk "github.com/Tnze/go-mc/net/packet"
-	"github.com/Tnze/go-mc/offline"
+	"github.com/apepenkov/go-mc/net"
+	pk "github.com/apepenkov/go-mc/net/packet"
+	"github.com/apepenkov/go-mc/offline"
 )
 
 const (

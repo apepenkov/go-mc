@@ -11,12 +11,12 @@ import (
 
 	"github.com/google/uuid"
 
-	"github.com/Tnze/go-mc/bot"
-	"github.com/Tnze/go-mc/chat"
-	"github.com/Tnze/go-mc/chat/sign"
-	"github.com/Tnze/go-mc/data/packetid"
-	pk "github.com/Tnze/go-mc/net/packet"
-	"github.com/Tnze/go-mc/yggdrasil/user"
+	"github.com/apepenkov/go-mc/bot"
+	"github.com/apepenkov/go-mc/chat"
+	"github.com/apepenkov/go-mc/chat/sign"
+	"github.com/apepenkov/go-mc/data/packetid"
+	pk "github.com/apepenkov/go-mc/net/packet"
+	"github.com/apepenkov/go-mc/yggdrasil/user"
 )
 
 type PlayerList struct {

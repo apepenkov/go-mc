@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"text/template"
 
-	"github.com/Tnze/go-mc/internal/generateutils"
+	"github.com/apepenkov/go-mc/internal/generateutils"
 )
 
 type registry struct {

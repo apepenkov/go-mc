@@ -3,11 +3,11 @@ package bot
 import (
 	"unsafe"
 
-	"github.com/Tnze/go-mc/chat"
-	"github.com/Tnze/go-mc/data/packetid"
-	"github.com/Tnze/go-mc/net"
-	pk "github.com/Tnze/go-mc/net/packet"
-	"github.com/Tnze/go-mc/registry"
+	"github.com/apepenkov/go-mc/chat"
+	"github.com/apepenkov/go-mc/data/packetid"
+	"github.com/apepenkov/go-mc/net"
+	pk "github.com/apepenkov/go-mc/net/packet"
+	"github.com/apepenkov/go-mc/registry"
 )
 
 type ConfigData struct {

@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	pk "github.com/Tnze/go-mc/net/packet"
+	pk "github.com/apepenkov/go-mc/net/packet"
 )
 
 var (

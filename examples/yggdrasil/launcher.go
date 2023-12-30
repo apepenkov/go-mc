@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/Tnze/go-mc/yggdrasil"
+	"github.com/apepenkov/go-mc/yggdrasil"
 )
 
 var (

@@ -15,8 +15,8 @@ import (
 
 	"github.com/google/uuid"
 
-	"github.com/Tnze/go-mc/bot"
-	"github.com/Tnze/go-mc/chat"
+	"github.com/apepenkov/go-mc/bot"
+	"github.com/apepenkov/go-mc/chat"
 )
 
 var (

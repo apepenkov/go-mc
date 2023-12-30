@@ -10,16 +10,16 @@ import (
 	"net"
 	"strconv"
 
-	"github.com/Tnze/go-mc/chat"
-	mcnet "github.com/Tnze/go-mc/net"
-	pk "github.com/Tnze/go-mc/net/packet"
-	"github.com/Tnze/go-mc/net/queue"
-	"github.com/Tnze/go-mc/yggdrasil/user"
+	"github.com/apepenkov/go-mc/chat"
+	mcnet "github.com/apepenkov/go-mc/net"
+	pk "github.com/apepenkov/go-mc/net/packet"
+	"github.com/apepenkov/go-mc/net/queue"
+	"github.com/apepenkov/go-mc/yggdrasil/user"
 )
 
 // ProtocolVersion is the protocol version number of minecraft net protocol
 const (
-	ProtocolVersion = 764
+	ProtocolVersion = 765
 	DefaultPort     = mcnet.DefaultPort
 )
 
