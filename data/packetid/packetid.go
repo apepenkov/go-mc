@@ -174,6 +174,16 @@ const (
 	ClientboundUpdateMobEffect
 	ClientboundUpdateRecipes
 	ClientboundUpdateTags
+	ClientboundUnk1
+	ClientboundUnk2
+	ClientboundUnk3
+	ClientboundUnk4
+	ClientboundUnk5
+	ClientboundUnk6
+	ClientboundUnk7
+	ClientboundUnk8
+	ClientboundUnk9
+	ClientboundUnk10
 	ClientboundPacketIDGuard
 )
 
